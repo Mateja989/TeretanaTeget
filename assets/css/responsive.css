@@ -1,0 +1,121 @@
+@media screen and (max-width: 1200px){
+    i{
+        font-size: 25px !important;
+    }
+    #intro-treneri h1{
+        font-size: 80px !important;
+        margin-top: 10% !important;
+    }
+    #intro-treneri p{
+        font-size: 20px !important;
+    }
+
+}
+@media screen and (max-width: 1025px){
+    #intro{
+        width: 100%;
+        margin: 20%  !important;
+        text-align: center !important;
+    }
+    #intro h1{
+        font-size: 80px;
+    }
+    .mm-resFont2{
+    font-size: 26px !important;
+    }
+    .teget{
+        margin-bottom: 25px !important;
+    }
+    .mm-margin1{
+        margin: 0px !important;
+    }
+    .mm-resText{
+        font-size: 16px !important;
+    }
+    .mm-resCenter{
+        text-align: center !important;
+    }
+    #intro-treneri h1{
+        font-size: 60px !important;
+        margin-top: 15% !important;
+    }
+    #intro-treneri p{
+        font-size: 16px !important;
+    }
+    .mm-resFont3{
+        font-size: 24px !important;
+    }
+}
+@media screen and (max-width: 780px){
+    #intro{
+        margin: 20%  !important;
+    }
+    #intro h1{
+        font-size: 60px;
+    }
+    .mm-logo{
+        width: 40% !important;
+    }
+    .mm-resFont{
+        font-size: 30px !important;
+    }
+    .mm-resText{
+        font-size: 16px !important;
+    }
+    #intro-treneri h1{
+        font-size:40px !important;
+        margin-top: 20% !important;
+    }
+    #intro-treneri p{
+        font-size: 15px !important;
+    }
+    .mm-resFont3{
+        font-size: 22px !important;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .mm-resFont{
+        font-size: 26px !important;
+    }
+    .mm-resFont2{
+        font-size: 22px !important;
+        }
+    .mm-resLink{
+        font-size: 16px !important;
+    }
+    #intro-treneri h1{
+        font-size:30px !important;
+        margin-top: 20% !important;
+    }
+    .mm-resFont3{
+        font-size: 20px !important;
+    }
+
+}
+ 
+@media screen and (max-width: 430px){
+    .mm-resFont{
+        font-size: 24px !important;
+    }
+    #intro{
+        margin: 30%  !important;
+    }
+    #intro h1{
+        font-size: 40px;
+    }
+    .mm-resText{
+        font-size: 14px !important;
+    }
+    #intro-treneri h1{
+        font-size:26px !important;
+        margin-top: 50% !important;
+    }
+    #intro-treneri p{
+        font-size: 12px !important;
+    }
+    .mm-resFont{
+        font-size: 24px !important;
+    }
+}
+

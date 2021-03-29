@@ -1,0 +1,207 @@
+:root{
+    --tegetBoja: #018dca;
+    --belaBoja: #ffffff;
+    --tamnoPlava: #cbd2f2;
+    --svetloSiva: #ebeced;
+    --textBoja: #272343;
+    --footBoja: #4d5073;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: var(--belaBoja) !important;
+    list-style-type: none !important;
+}
+a:hover{
+    color: #919191 !important;
+    list-style: none !important;
+}
+.color1{
+    color: var(--tegetBoja) !important;
+}
+.mm-blue{
+    background-color: var(--textBoja) !important;
+    padding: 5px !important;
+}
+.logo{
+    font-size: 38px !important;
+}
+.mm-font{
+    font-size: 20px !important;
+    
+}
+
+.mm-margin{
+    margin-right: 15px;
+}
+.span{
+    color: var(--zutaBoja);
+}
+#cover-pic{
+    background: url("../img/2.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+.mm-transparent{
+    width: 100%;
+    height: inherit;
+    background: rgba(0,0,0,0.7);
+}
+#intro{
+    width: 70%;
+    color: var(--belaBoja);
+    margin: 10%  !important;
+}
+#intro h1{
+    font-size: 119px;
+}
+span{
+    color: var(--tegetBoja);
+}
+.mm-text h1,.color{
+    color: var(--textBoja) !important;
+}
+.mm-bg{
+    background-color: var(--tamnoPlava);
+}
+
+.mm-text2{
+    font-size: 26px !important;
+    color: var(--belaBoja) !important;
+}
+.mm-text3{
+    font-size: 16px !important;
+    color: var(--belaBoja) !important;
+}
+.mm-border{
+    border-color: var(--belaBoja) !important;
+}
+i{
+    font-size: 34px !important ;
+}
+.red i{
+    color: red;
+}
+.yellow i{
+    color: yellow;
+}
+.green i{
+    color: green;
+}
+
+.mm-footer{
+    color:var(--belaBoja) !important;
+}
+li{
+    list-style-type: none  !important;
+}
+.mm-footer ul li {
+    display: inline !important;
+    padding: 10px !important;
+}
+.mm-footer ul li a i{
+    font-size: 28px !important;
+    padding: 2px;
+}
+#cover-pic1{
+    background: url("../img/5.jpg");
+    background-position: center;
+    background-size: cover;
+    height:750px;
+}
+.teget{
+    background-color: var(--textBoja) !important;
+    border: 0px !important;
+    font-weight: bold !important;
+    width: 100%;
+    padding: 12px !important;
+
+}
+.card-text{
+    font-weight: bold !important;
+}
+.card{
+    border: 1px solid var(--tamnoPlava) !important;
+}
+img{
+    border-bottom: 1px solid var(--textBoja) !important;
+}
+.form-control{
+    border: 1px solid var(--textBoja) !important;
+}
+.mm-slova p{
+    color: var(--textBoja) !important;
+}
+.mm-ikonice{
+    font-size: 20px !important;
+}
+.mm-margin1{
+    margin-top: 155px !important;
+    margin-bottom: 0px !important;
+
+}
+.mm-linije{
+    border:0px !important;
+}
+.mm-velicina{
+    font-size: 24px !important;
+}
+.mm-height{
+    height: 150px !important;
+}
+.red{
+    color: red !important;
+}
+#slika{
+    background: url("../img/5.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.mm-border-bottom{
+    border-bottom: 1px solid var(--textBoja) !important;
+    font-size: 16px !important;
+}
+#slika2{
+    background: url("../img/treneri.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#intro-treneri{
+    margin-top: 10% !important;
+    width: 50%;
+    padding-bottom: 10% !important;
+}
+#intro-treneri h1{
+    color: var(--belaBoja) !important;
+    font-size: 110px !important;
+}
+#intro-treneri p{
+    color: var(--belaBoja) !important;
+    font-size: 18px !important;
+}
+.boja{
+    background-color: var(--tegetBoja) !important;
+}
+.mm-position{
+    position:  relative !important;
+    top: 25% !important;
+}
+.mm-border1{
+    border: 0px !important;
+}
+.mm-dugme{
+    border: 2px solid var(--tamnoPlava) !important;
+    background-color: var(--belaBoja) !important;
+    color: var(--textBoja) !important;
+}
+.navbar-toggler{
+    background: var(--svetloSiva);
+}
+.mm-naslovTeget{
+    font-size: 40px !important;
+}
+.mm-resFont3{
+    font-size: 26px !important;
+}
